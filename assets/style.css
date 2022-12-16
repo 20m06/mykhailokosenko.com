@@ -1,0 +1,43 @@
+body{
+    background-image: url("../images/myphoto.png");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-color: grey;
+    background-blend-mode: multiply;
+}
+#content{
+    display: block;
+    position: relative;
+    position: absolute;
+    bottom: 0;
+    left: 5%;
+    text-align: left;
+    align-content:space-around;
+    color: white;
+    font-size: 150%;
+}
+header{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    font-size: 120%;
+    margin-top: 2%;
+}
+h4{
+    font-family: "Quicksand";
+}
+h1{
+    font-family: "Secular One";
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    font-family: "Secular One";
+    font-size: 170%;
+}
+#homeinhome{
+    text-decoration: underline;
+}

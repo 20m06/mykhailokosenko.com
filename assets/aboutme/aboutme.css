@@ -1,0 +1,34 @@
+body{
+    color:white;
+    background-color: #fff;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+}
+header{
+    padding: 1%;
+    text-align: right;
+    background: black;
+    color: white;
+}
+#aboutmeonaboutme{
+    color: white;
+    text-decoration: underline;
+    font-family: "Secular One";
+}
+#home{
+    text-decoration: none;
+    color: white;
+    font-family: "Secular One";
+}
+.span{
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+    height: 15%;   
+    background-color: grey;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
